@@ -15,7 +15,7 @@ I'll start with the positives: Vue 3 removed [filters](https://v3.vuejs.org/guid
 
 ### Composition API
 While I don't have any problems with the composition API itself, I think this only complicates things. Unlike React which stated that they actually keep class components for backwards compatibility, but for new components you have to use hooks:
-> > #### Should I use Hooks, classes, or a mix of both?
+> > **Should I use Hooks, classes, or a mix of both?**
 > When you’re ready, we’d encourage you to start trying Hooks in new components you write. Make sure everyone on your team is on board with using them and familiar with this documentation. We don’t recommend rewriting your existing classes to Hooks unless you planned to rewrite them anyway (e.g. to fix bugs).
 Source: https://reactjs.org/docs/hooks-faq.html
 
