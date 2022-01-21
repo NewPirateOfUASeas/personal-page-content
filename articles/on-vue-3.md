@@ -2,6 +2,7 @@
 title: Why I'm worried about future of vue.js
 description: On future of vue.js
 img: https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg
+img_alt: Vue.js Icon
 long: true
 ---
 # Why I'm worried about the future of Vue.js

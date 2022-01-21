@@ -2,6 +2,7 @@
 title: Zoomer thoughts on RSS
 description: My rant about RSS and a few words about TUI
 img: https://upload.wikimedia.org/wikipedia/commons/b/b6/Rss_Shiny_Icon.svg
+img_alt: Rss Icon
 long: true
 ---
 
