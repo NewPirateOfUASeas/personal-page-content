@@ -5,7 +5,7 @@ img: https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg
 long: true
 ---
 # Why I'm worried about the future of Vue.js
-For those unaware - [Vue.js is one of the 3 most popular javascript frameworks.](https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190). 
+For those unaware - [Vue.js is one of the 3 most popular javascript frameworks](https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190). 
 It would be a good place to start with why I care about this topic: I love using vue, it provides great DX for small teams, and it's my favorite JS framework. Having said that, let's dive right into the topic.
 ## Vue 3
 I'll start with the positives: Vue 3 removed [filters](https://v3.vuejs.org/guide/migration/filters.html), various sources also report that performance has been [drastically improved](https://geckodynamics.com/blog/vue2-vs-vue3) referring to this [document](https://docs.google.com/spreadsheets/d/1VJFx-kQ4KjJmnpDXIEaig-cVAAJtpIGLZNbv3Lr4CR0/edit#gid=0). I couldn't verify if this document is legit though. But I think DX has been greatly improved for sure, especially since Typescript compatibility has been improved.

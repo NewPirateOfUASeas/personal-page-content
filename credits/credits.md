@@ -1,3 +1,9 @@
+# Ivan Kuzmenko
+
+For spending a lot of time and effort teaching me how to code
+
+* [Github](https://github.com/rndtrash)
+
 # Chris Wellons
 
 For an amazing implementation of Conway's Game of Life with WebGL
