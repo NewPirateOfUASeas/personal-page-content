@@ -1,6 +1,6 @@
 # Here is the list of open-source projects i've developed myself
 
-## Web-frotnend
+## Web-frontend
 
 1. ## [Personal-page](https://github.com/Pacifist-Penguin/personal-page)
 
