@@ -2,7 +2,7 @@
 
 ## Web-frontend
 
-1. ## [Personal-page](https://github.com/Pacifist-Penguin/personal-page)
+1. ## [Personal-page](https://github.com/Pacifist-Penguin/Pacifist-Penguin.github.io)
 
     Yep, this very page you're currently visiting. This site is totally usable with noscript, and that's on purpose. Please, try to keep it the way it is. Still, it have some quality of life features for those with javascript enabled.
     * Built with Vue 2 + Nuxt (with content and feed modules) + TypeScript
