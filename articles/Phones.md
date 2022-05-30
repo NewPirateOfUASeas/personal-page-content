@@ -56,7 +56,7 @@ For Android you are looking for at least:
 1. The bootloader is unlocked or at least can be unlocked
 2. Ability to gain root level privileges as a result.
 
-The only *Android distribution* I can recommend is [LineageOS](https://www.lineageos.org/), for this reason I recommend checking out the [list of officially supported devices](https://wiki.lineageos. org/devices/).
+The only *Android distribution* I can recommend is [LineageOS](https://www.lineageos.org/), for this reason I recommend checking out the [list of officially supported devices](https://wiki.lineageos.org/devices/).
 There are many phones that work flawlessly on Android that are not officially supported by LinegeOS (check this before you buy), however you may need to compile it yourself specifically for your phone. Please do not download sketchy images from the XDA forum. It can be malicious and your phone always keeps the most sensitive information.
 
 ### Google services
