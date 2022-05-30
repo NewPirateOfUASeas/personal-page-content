@@ -40,7 +40,7 @@ I'll start with the cons:
 At the same time, I still consider PostmarketOS the most promising and suitable option for me for the following reasons:
 1. Anything you can do with Linux can be done with PostmarketOS.
 2. In terms of security, it can be considered more secure than android (although debatable, but I consider it more secure).
-3. You can run most Android applications with a few options (e.g. [Waydroid] (https://wiki.postmarketos.org/wiki/Waydroid)).
+3. You can run most Android applications with a few options (e.g. [Waydroid](https://wiki.postmarketos.org/wiki/Waydroid)).
 4. Development culture is much better too! Unified gitlab repository, bug tracking system and all that really is a dream compared to XDA.
 5. Support for peripheral devices is at point. You can also easily customize, debug and remap keys for your peripherals.
 
